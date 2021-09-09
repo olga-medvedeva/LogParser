@@ -1,8 +1,8 @@
 # log-parser
-Simple Java service for processing logs
+Simple Java service for processing logs.
 
 The service reads from the directory log files with a certain format (example.log):  
-IP, username, date, event + (event number), status  
+IP, username, date, event + (event number), status.  
 
 Service can get structured requests from console and process them.  
 Structure:
