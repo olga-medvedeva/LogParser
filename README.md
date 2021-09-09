@@ -1,5 +1,5 @@
 # log-parser
-Small and simple Java service for processing logs
+Simple Java service for processing logs
 
 The service reads from the directory log files with a certain format (example.log):  
 IP, username, date, event + (event number), status  
